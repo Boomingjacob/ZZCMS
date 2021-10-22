@@ -1,4 +1,4 @@
-# ZZCMS 2021 SQL Injection POC
+# POC of ZZCMS2021 SQL Injection 
 
 Profile
 -----
