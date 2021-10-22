@@ -11,7 +11,7 @@ Location
 POC
 ----
 1.Request the page as normal and get the response
-![](http://w
+![](https://github.com/Boomingjacob/ZZCMS/blob/main/1.jpg)
 2.If the invalid character "select" is used, the response will report an error
 
 3.Use the c=siteconfig.php parameter in the request path to bypass sensitive strings such as select
